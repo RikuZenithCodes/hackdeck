@@ -11,7 +11,7 @@ Day 1<br/>
 1 hour<br/>
 -came up with the general idea for the hackpad. Steam Deck Duplicate.<br/>
 -Finished schematic.
-![image](https://github.com/user-attachments/assets/022e224a-bf83-4a66-aed5-b79dd7a680bc)
+![image](https://github.com/user-attachments/assets/9ae4b4c3-40bd-40b5-9e67-1ae40236c2d2)
 
 Day 2<br/>
 7 hour<br/>
