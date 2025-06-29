@@ -10,11 +10,11 @@ Hackdeck is my personal take on a Steam Deck inspired hackpad a compact, all in 
 
 
 # Components
-6x Cherry MX Switches<br/>
-4x SK6812 MINI Leds<br/>
 1x XIAO RP2040<br/>
+6x Cherry MX Switches<br/>
 6x Keycaps<br/>
 1x EC11 Rotary Encoder<br/>
 1x .91" OLED Display<br/>
+4x SK6812 MINI Leds<br/>
 Custom 3D Printed Top Case<br/>
 Custom 3D Printed Bottom Case<br/>
