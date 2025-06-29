@@ -486,10 +486,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Production/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "hackdeck.step",
       "svg": "",
       "vrml": ""
     },
