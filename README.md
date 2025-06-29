@@ -11,11 +11,11 @@ Meet my Hackdeck a DIY macro pad with serious Steam Deck vibes. Built it as my o
 
 
 # Components
-5x Cherry MX Switches
-1x SK6812 MINI Leds
-1x XIAO RP2040
-5x Keycaps
-1x EC11 Rotary Encoder
-1x .91" OLED Display
-Custom 3D Printed Top Case
-Custom 3D Printed Bottom Case
+5x Cherry MX Switches<br/>
+1x SK6812 MINI Leds<br/>
+1x XIAO RP2040<br/>
+5x Keycaps<br/>
+1x EC11 Rotary Encoder<br/>
+1x .91" OLED Display<br/>
+Custom 3D Printed Top Case<br/>
+Custom 3D Printed Bottom Case<br/>
